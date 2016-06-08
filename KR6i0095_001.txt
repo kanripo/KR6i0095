@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:39.050060
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:50
 #+TITLE: 釋肇序
 #+PROPERTY: CBETA_ID T85n2776
 #+PROPERTY: ID KR6i0095
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2776
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0095_T_001-0438a> 
 #+PROPERTY: JUAN 1
 ¶
-No.2776[cf.No.1775]¶
-
- 釋肇序¶
+No. 2776 [cf. No. 1775]¶
+釋肇序¶
 ¶
 
 本深也。啟者開也。如世開深非王印不□¶
@@ -36,7 +35,7 @@ No.2776[cf.No.1775]¶
 之下。若樛木不接葛蘿仰攀。則雖千尋之檊¶
 亦可因依而達矣。法合亦同。便如來栖神於¶
 九居之上蒼生淪沒於三塗之下交感不會。¶
-則雖群生有本覺之智。不免淪迴之苦。若使¶
+則雖群生有本覺之智。不勉淪迴之苦。若使¶
 蒼生深信仰之誠。諸佛垂大悲之迹。則雖十¶
 力位尊三祇劫遠。自強不息咸可成矣。本迹¶
 之義於茲顯然。從此第三明釋題目也　故
